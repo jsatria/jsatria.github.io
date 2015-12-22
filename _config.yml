@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Jonathan Satria's blog
 locale:           en_US
 url:
 
@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Jonathan Satria
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Software Engineer living in Cambridge, England. Also a dachshund owner, musician, and aviation enthusiast. "
   email:
   disqus-shortname:
   twitter: #username
   facebook: #username
   google:
-    plus: #username
+    plus: jonathansatria
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: jsatria
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: jonathansatria
   xing: #username
   instagram: #username
   lastfm: #username
