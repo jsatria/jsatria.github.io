@@ -17,6 +17,6 @@ Hello and welcome to my blog... v2! Thanks for visiting! A bit about myself: I'm
 
 This is now my second blog that I've embarked on and hopefully I'll post more regularly about all things tech, travel, and life. Stay tuned!
 
-- JS
+**- JS**
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
