@@ -34,6 +34,28 @@ h6 {
 
 a {
 	text-decoration: none;
+	color: $link-color;
+	&:visited {
+		color: $linkcolorvisited;
+	}
+	&:hover {
+		color: $linkcolorhover;
+	}
+	&:focus {
+		outline: thin dotted;
+		color: $linkcolorfocus;
+	}
+	&:hover,
+	&:active {
+		outline: 0;
+	}
+}
+
+/*
+   Nav Links
+   ========================================================================== */
+.a2 {
+	text-decoration: none;
 	color: $white;
 	&:visited {
 		color: $white;
