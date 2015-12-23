@@ -2,7 +2,7 @@
 
 title:            Jonathan Satria's blog
 locale:           en_US
-url:
+url: //jsatria.github.io
 
 
 # Jekyll configuration
@@ -29,7 +29,7 @@ owner:
   name: Jonathan Satria
   avatar: bio-photo-4.jpg
   bio: "A Software Engineer living in Cambridge, UK. World traveller, musician, longboarder, and dachshund enthusiast. "
-  email:
+  email: jonathan.bytes@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username

@@ -1,25 +1,22 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+title: About Me
+tags: [about]
+modified: 2015-12-23T08:53:07.573882-04:00
+comments: false
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: aboutheader.jpg
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Hello and welcome to my blog... v2! Thanks for visiting! A bit about myself: I'm a software engineer originally from D.C. but now residing in Cambridge, UK. Besides tinkering with stuff, I travel, cook + eat, longboard, and play instruments (5 and counting). I've also got a brindle dachshund (weiner dog) named Hazelnut that craves attention 24/7.
 
-## Minimal Mistakes is all about:
+<figure>
+	<a href="/images/hazyboard.jpg"><img src="/images/hazyboard.jpg"></a>
+	<figcaption><a href="/images/hazyboard.jpg" title="Hazelnut likes to board">Hazelnut likes to board too</a>.</figcaption>
+</figure>
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+This is now my second blog that I've embarked on and hopefully I'll post more regularly about all things tech, travel, and life. Stay tuned!
+
+- JS
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>

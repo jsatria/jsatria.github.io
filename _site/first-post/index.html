@@ -5,37 +5,37 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Sample Link Post &#8211; Jonathan Satria's blog</title>
-<meta name="description" content="Example and code for using link posts.">
-<meta name="keywords" content="sample post, link post">
+<title>First Post &#8211; Jonathan Satria's blog</title>
+<meta name="description" content="First post on my second blog">
+<meta name="keywords" content="posts">
 
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Sample Link Post">
-<meta name="twitter:description" content="Example and code for using link posts.">
+<meta name="twitter:title" content="First Post">
+<meta name="twitter:description" content="First post on my second blog">
 
 
 
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="/images/default-thumb.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="/images/sample-image-5.jpg">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Sample Link Post">
-<meta property="og:description" content="Example and code for using link posts.">
-<meta property="og:url" content="/sample-link-post/">
+<meta property="og:title" content="First Post">
+<meta property="og:description" content="First post on my second blog">
+<meta property="og:url" content="/first-post/">
 <meta property="og:site_name" content="Jonathan Satria's blog">
 
-<meta property="og:image" content="/images/default-thumb.png">
+<meta property="og:image" content="/images/sample-image-5.jpg">
 
 
 
 
 
 
-<link rel="canonical" href="/sample-link-post/">
+<link rel="canonical" href="/first-post/">
 <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Jonathan Satria's blog Feed">
 
 <!-- http://t.co/dKP3o1e -->
@@ -95,23 +95,24 @@
 				    
 				        
 				    
-				    <li><a href="/posts/" >Sample Posts</a></li>
-				
-				    
-				        
-				    
-				    <li><a href="/theme-setup/" >Theme Setup</a></li>
-				
-				    
-				        
-				        
-				    <li><a href="http://mademistakes.com" target="_blank">Made Mistakes</a></li>
+				    <li><a href="/posts/" >Posts</a></li>
 				
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
 
+
+  <div class="image-wrap">
+  <img src=
+    
+      "/images/sample-image-5.jpg"
+    
+  alt="First Post feature image">
+  
+    <span class="image-credit">Photo Credit: <a href="http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/">WeGraphics</a></span>
+  
+  </div><!-- /.image-wrap -->
 
 
 <div id="main" role="main">
@@ -153,17 +154,38 @@
   <article class="post">
     <div class="headline-wrap">
       
-        <h1><a href="http://mademistakes.com">Sample Link Post</a></h1>
+        <h1><a href="/first-post/" rel="bookmark" title="First Post">First Post</a></h1>
       
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
-      <p>This theme supports <strong>link posts</strong>, made famous by John Gruber. To use, just add <code>link: http://url-you-want-linked</code> to the post’s YAML front matter and you’re done.</p>
+      <section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer">
+<ul id="markdown-toc">
+  <li><a href="#welcome" id="markdown-toc-welcome">Welcome</a></li>
+</ul>
 
-<blockquote>
-  <p>And this is how a quote looks.</p>
-</blockquote>
+  </div>
+</section>
+<!-- /#table-of-contents -->
 
-<p>Some <a href="http://www.mademistakes.com">link</a> can also be shown.</p>
+<h3 id="welcome">Welcome</h3>
+
+<p>Welcome to my <strong>second</strong> blog. I learned a very important lesson yesterday and that is to never relent on backing up your disk. Whether it’s for your graduate coursework, latest feature work, or what you assume is an insignificant WordPress blog – back it up.</p>
+
+<p>In summer 2014 I set up a WordPress blog that was hosted on my DigitalOcean VPS. It was a personal exercise to learn how to set up a server with my own domain and install WordPress from scratch. I hadn’t done such a thing before and I was pleased when I completed the task. I posted a bit, tinkered with SSL and security… I even had a dog-watch surveillance web app running with my RaspberryPi! Things were going well. But then work and life took over and the blogging and tinkering slowed and ceased altogether around April of this year.</p>
+
+<p>A few days ago I decided revive my small project and issued myself a new challenge: set up nginx as a reverse proxy so that I could have both the Apache server running WordPress and a web application running on the same server on the same domain name. Given the relatively simple architecture, I thought the task would be just that – simple and straightforward. Unfortunately, it was anything but and I quickly dug myself into an irreversible hole. It wasn’t so much the nginx or server setup that did it, but at some point when I tried to revert to a previous snapshot I had taken, the disk became corrupted. I’m still investigating what may have happened, but needless to say, I learned my lesson. <em>backup!</em></p>
+
+<p>So now I’ve got this new blog running on Jekyll and hosted on GitHub pages. I hadn’t heard of Jekyll until the aforementioned crisis and  discovered it on my search for a funky-fresh new way to blog, with something less behemoth than WordPress. I’ve been liking it so far, especially because there’s a lot more under the hood that I get to poke at and play with. The tech stack is also new and interesting to me, so it’ll be a good learning experience.</p>
+
+<p>Thanks for reading to the end of this blog post! I’m determined to post more (in addition to backing up) to this blog, especially since so much has happened with life in the last 3 months with moving to Cambridge. Hopefully these posts will be of interest to others, whether it be in travel, tech, or just good life.</p>
+
+<p>Cheers!</p>
+
+<p><em>tldr</em>: Hosed my first blog and learned that I should always backup. This is my new blog and I’m glad you’re interested in reading it!</p>
 
       <hr />
       <footer role="contentinfo">
@@ -171,17 +193,17 @@
   <h4>Share on</h4>
   <ul>
     <li>
-      <a href="https://twitter.com/intent/tweet?text=/sample-link-post/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+      <a href="https://twitter.com/intent/tweet?text=/first-post/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
     </li>
     <li>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=/sample-link-post/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=/first-post/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
     </li>
     <li>
-      <a href="https://plus.google.com/share?url=/sample-link-post/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+      <a href="https://plus.google.com/share?url=/first-post/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
     </li>
   </ul>
 </div><!-- /.social-share -->
-        <p class="byline"><strong>Sample Link Post</strong> was published on <time datetime="2013-08-12T00:00:00+01:00">August 12, 2013</time>.</p>
+        <p class="byline"><strong>First Post</strong> was published on <time datetime="2015-12-23T00:00:00+00:00">December 23, 2015</time> and last modified on <time datetime="2015-12-23">December 23, 2015</time>.</p>
       </footer>
     </div><!-- /.article-wrap -->
   
@@ -189,20 +211,6 @@
 </div><!-- /#main -->
 
 <div class="footer-wrap">
-  
-  <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="/posts/">View all posts</a>)</small></h4>
-    <ul>
-    
-      <li><a href="/author-override/" title="Author Override">Author Override</a></li>
-    
-      <li><a href="/code-highlighting-post/" title="Syntax Highlighting Post">Syntax Highlighting Post</a></li>
-    
-      <li><a href="/readability-feature-post/" title="Post with Large Feature Image and Text">Post with Large Feature Image and Text</a></li>
-    
-    </ul>
-    <hr />
-  </div><!-- /.related-articles -->
   
   <footer>
     
@@ -215,6 +223,9 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="/assets/js/scripts.min.js"></script>
+
+
+  
 
 
 
