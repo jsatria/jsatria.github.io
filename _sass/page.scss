@@ -57,7 +57,9 @@ body {
 		@include suffix(12,0);
 	}
 	@media #{$x-large} {
-		@include grid(12,8);
+		@include grid(12,5);
+		@include prefix(12,.5);
+        @include suffix(12,.5);
 	}
 	ul {
 		margin: 0;
@@ -90,6 +92,15 @@ body {
 				display: inline;
 				padding: 0;
 			}
+
+			@media #{$x-large} {
+            	display: inline;
+            	float: right;
+            	margin-left: 25px;
+                			white-space: nowrap;
+                			border-bottom: 0 solid transparent;
+            }
+
 		}
 	}
 }
