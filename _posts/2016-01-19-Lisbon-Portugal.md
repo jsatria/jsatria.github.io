@@ -27,7 +27,7 @@ Having been to many great cities in Europe, Lisbon did not disappoint. The sites
 Portuguese were friendly and inviting.
  
 ## Orientation of Lisbon ##
-Lisbon is a vibrant, bustling, and culturally engaging capital city that has a rich history due to its locational. As one of the most ancient cities in Europe, 
+Lisbon is a vibrant, bustling, and culturally engaging capital city that has a rich history due to its location. As one of the most ancient cities in Europe, 
 Lisbon changed many hands between empires, some of which were the Romans, Moors, and the Spanish empires. Portugal was also the first global empire during the Age of Discovery, promoting its wealth, power, and status. 
 
 On All Saint's Day in 1755, Lisbon experienced an earthquake that registered 9.2 according to the now used Richter scale -- greater than the 2011 Japan earthquake. Much of the city was destroyed due to the
