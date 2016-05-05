@@ -2,14 +2,14 @@
 
 title:            Jonathan Satria's blog
 locale:           en_US
-url: 
+url:
 
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed

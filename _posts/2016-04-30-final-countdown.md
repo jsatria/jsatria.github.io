@@ -30,7 +30,7 @@ I'm now 4 classes away from finishing my master's degree at Georgia Tech in the 
 
 I'll discuss each of these classes in further detail below.
 
-## Introduction to Information Security CS 6035
+### Introduction to Information Security CS 6035
 Having come from a non-traditional CS background (I was pre-med in undergrad), I felt that I would benefit from a class that provides a fundamental overview and introduction to modern information security. I enjoyed the context and lectures of the course. They covered not only the technical issues (of which there are many), but also the human side of information security -- creating a security policy, implementing it and the varying security needs of different organizations.
 
 Of the many topics covered in class, those that stuck with me the most were:
