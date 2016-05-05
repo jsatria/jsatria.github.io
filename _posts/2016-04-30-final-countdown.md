@@ -21,7 +21,7 @@ image:
 ### DONE.
 The spring semester came to a much awaited and fulfilling end this past weekend. A casual reader will notice the lack of any posts since my last post back in January. Between graduate school, traveling, and everything in between, this blog has been regretfully neglected. After four long months, I finally have time to sit down and properly write. This post is going to be about the past semester and my thoughts on the classes I completed. In a few days I'll be posting about the travel I've done over the last few months.
 
-## In the last episode...
+### In the last episode...
 I'm now 4 classes away from finishing my master's degree at Georgia Tech in the OMSCS program. For those that are new or unaware, in November 2015 I moved from Washington, D.C. to Cambridge, England with my family (more on that in a later post). Since I had to leave my last job and I was unaware of what sort of job opportunities were available in the UK, I opted to hold off on a job search and instead study full-time for at least the spring semester. This allowed me to explore new subjects I hadn't been able to due to full-time work. Machine learning and big data are becoming increasingly relevant and machines more capable, so I decided to pursue this new field of study.  More specifically, the three classes I took were:
 
 * Introduction to Information Security CS 6035
