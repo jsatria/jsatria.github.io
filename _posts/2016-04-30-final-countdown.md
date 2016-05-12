@@ -5,8 +5,6 @@ excerpt: "Thoughts and reflections over the last semester in OMSCS. "
 modified: 2016-04-30
 tags: [posts, school, omscs, georgiatech]
 comments: true
-image:
-  feature: header_lisbon.jpg
 ---
 <section id="table-of-contents" class="toc">
   <header>
@@ -24,9 +22,9 @@ The spring semester came to a much awaited and fulfilling end this past weekend.
 ### In the last episode...
 I'm now 4 classes away from finishing my master's degree at Georgia Tech in the OMSCS program. For those that are new or unaware, in November 2015 I moved from Washington, D.C. to Cambridge, England with my family (more on that in a later post). Since I had to leave my last job and I was unaware of what sort of job opportunities were available in the UK, I opted to hold off on a job search and instead study full-time for at least the spring semester. This allowed me to explore new subjects I hadn't been able to due to full-time work. Machine learning and big data are becoming increasingly relevant and machines more capable, so I decided to pursue this new field of study.  More specifically, the three classes I took were:
 
-* Introduction to Information Security CS 6035
-* Machine Learning CS 7641
-* Machine Learning for Trading CS 7646
+* <a href="http://www.omscs.gatech.edu/cs-6035-introduction-to-information-security">Introduction to Information Security CS 6035</a>
+* <a href="http://www.omscs.gatech.edu/cs-7641-machine-learning">Machine Learning CS 7641</a>
+* <a href="http://www.omscs.gatech.edu/cs-7646-machine-learning-trading">Machine Learning for Trading CS 7646</a>
 
 I'll discuss each of these classes in further detail below.
 
