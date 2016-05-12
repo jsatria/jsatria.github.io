@@ -9,4 +9,4 @@ image:
   feature: sample-image-2.jpg
 ---
 
-I'll continually update this page with my live projects. Check back soon!
+I'm working on updating this page with my live projects. Check back soon! In the meantime, check out my <a href="http://www.github.com/jsatria">Github</a>
