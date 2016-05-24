@@ -6,7 +6,7 @@ modified: 2016-01-20
 tags: [posts, travel]
 comments: true
 image:
-  feature: header/header_lisbon.jpg
+  feature: /lisbon/header_lisbon.jpg
 ---
 <section id="table-of-contents" class="toc">
   <header>
@@ -40,7 +40,7 @@ On All Saint's Day in 1755, Lisbon experienced an earthquake that registered 9.2
 Travelling in **January** meant it was low-season in Lisbon, which meant there were few crowds and rarely any lines. This also meant that the many beautiful sights of Lisbon were easily photographed sans-people.
 The weather was mostly bright and sunny, with temperatures around 50-60F.
  <figure class="half">
-     <a href="/images/thumb_lisbon1.jpg"><img src="/images/thumb_lisbon1.jpg"></a>
+     <a href="/images/lisbon/thumb_lisbon1.jpg"><img src="/images/lisbon/thumb_lisbon1.jpg"></a>
  </figure>
 
 ####How to get there####
@@ -55,7 +55,7 @@ and Martin Monez. As the only neighborhood that wasn't destroyed by the earthqua
 Lisbon is a walkable city, but in order to see each of the neighborhoods, Lisbon's public transportation is helpful and inexpensive. However, I found it a bit of a nuisance that most maps only printed either the
 Metro **or** Tram lines -- not both. Nonetheless, the tram provided the easiest form of transportation, in particular the historic 28E and 12 trams. Do be mindful of pick-pocketers while enjoying the views from the tram.
 <figure class="half">
-     <a href="/images/thumb_tram28.jpg"><img src="/images/thumb_tram28.jpg"></a>
+     <a href="/images/lisbon/thumb_tram28.jpg"><img src="/images/lisbon/thumb_tram28.jpg"></a>
  </figure>
 
 ## Itinerary ##
@@ -64,13 +64,13 @@ Metro **or** Tram lines -- not both. Nonetheless, the tram provided the easiest 
 
 * Take a morning <a href="http://www.insidelisbon.com/package/best-of-lisbon-walk/">walking tour</a> to get an overview of the city and its neighborhoods.
     <figure class="half">
-         <a href="/images/thumb_lisbon2.jpg"><img src="/images/thumb_lisbon2.jpg"></a>
+         <a href="/images/lisbon/thumb_lisbon2.jpg"><img src="/images/lisbon/thumb_lisbon2.jpg"></a>
      </figure>
 * Enjoy lunch in Baixa and explore the neighborhood for its shopping.
 * Visit <a href="http://www.tripadvisor.co.uk/Attraction_Review-g189158-d2320746-Reviews-A_Ginjinha-Lisbon_Lisbon_District_Central_Portugal.html">A Ginjinha</a> for some delicious but dangerously potent cherry liquor
 * Have dinner at a restaurant offering *fado* in Bairro Alto
     <figure class="half">
-             <a href="/images/thumb_fado.jpg"><img src="/images/thumb_fado.jpg"></a>
+             <a href="/images/lisbon/thumb_fado.jpg"><img src="/images/lisbon/thumb_fado.jpg"></a>
     </figure>
 
 ### Day 2: Belem ###
@@ -78,16 +78,16 @@ Metro **or** Tram lines -- not both. Nonetheless, the tram provided the easiest 
 * Try traditional *Pasteis* at <a href="http://pasteisdebelem.pt/">Pasteis de Belem</a>
 * Visit the Monastarios de Jeronimos and Tower of Belem. Buy a combined ticket of €18 to save on individual tickets
    <figure class="half">
-        <a href="/images/thumb_monastarios.jpg"><img src="/images/thumb_monastarios.jpg"></a>
+        <a href="/images/lisbon/thumb_monastarios.jpg"><img src="/images/lisbon/thumb_monastarios.jpg"></a>
     </figure>
 
     <figure class="half">
-             <a href="/images/thumb_tower.jpg"><img src="/images/thumb_tower.jpg"></a>
+             <a href="/images/lisbon/thumb_tower.jpg"><img src="/images/lisbon/thumb_tower.jpg"></a>
     </figure>
 * Try a traditional sandwich at <a href="http://www.tripadvisor.co.uk/Restaurant_Review-g189158-d2324445-Reviews-Pao_Pao_Queijo_Queijo-Lisbon_Lisbon_District_Central_Portugal.html">Pio Pio Quiejo Quiejo</a>
 * Make your way back to Lisbon, go to <a href="http://castelodesaojorge.pt/">Castelo de Sao Jorge</a> to enjoy the castle and watch the most spectacular sunset. Grab a glass of wine if you can!
     <figure class="half">
-         <a href="/images/thumb_lisbon3.jpg"><img src="/images/thumb_lisbon3.jpg"></a>
+         <a href="/images/lisbon/thumb_lisbon3.jpg"><img src="/images/lisbon/thumb_lisbon3.jpg"></a>
      </figure>
 * Enjoy dinner in the Alfama. There are plenty of options many offering variations of the same thing. Make sure to enjoy some Tinto with dinner.
 
@@ -95,11 +95,11 @@ Metro **or** Tram lines -- not both. Nonetheless, the tram provided the easiest 
 * Take the regional train to Sintra
 * Visit the ruins of the old Moorish castle
  <figure class="half">
-         <a href="/images/thumb_moorish_castle.jpg"><img src="/images/thumb_moorish_castle.jpg"></a>
+         <a href="/images/lisbon/thumb_moorish_castle.jpg"><img src="/images/lisbon/thumb_moorish_castle.jpg"></a>
  </figure>
 * Visit the <a href="http://www.parquesdesintra.pt/en/parks-and-monuments/park-and-national-palace-of-pena/">Pena Castle</a>
  <figure class="half">
-         <a href="/images/thumb_pena_palace.jpg"><img src="/images/thumb_pena_palace.jpg"></a>
+         <a href="/images/lisbon/thumb_pena_palace.jpg"><img src="/images/lisbon/thumb_pena_palace.jpg"></a>
  </figure>
 * Train back to Lisbon and enjoy dinner in a tapas restaurant in the Alfama district
 
