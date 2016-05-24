@@ -26,7 +26,7 @@ to stray away from my planned tech talk and write about the trip. My goal is to 
 Having been to many great cities in Europe, Lisbon did not disappoint. The sites were fantastic, the weather was perfect (considering English weather at this time), food was inexpensive, and the
 Portuguese were friendly and inviting.
 
-## Orientation of Lisbon ##
+## Orientation of Lisbon
 Lisbon is a vibrant, bustling, and culturally engaging capital city that has a rich history due to its location. As one of the most ancient cities in Europe,
 Lisbon changed many hands between empires, some of which were the Romans, Moors, and the Spanish empires. Portugal was also the first global empire during the Age of Discovery, promoting its wealth, power, and status.
 
@@ -34,33 +34,33 @@ On All Saint's Day in 1755, Lisbon experienced an earthquake that registered 9.2
  earthquake itself and the fires, which started because of the abundant candles being used to observe the religious occasion. The destruction caused by the earthquake marked a decline in Portugal's wealth and power, however,
  the city itself cleared and rebuilt in a staggering amount of time. Today, the effects of the earthquake can be seen in the distinguishable differences in the layout and design of Lisbon between different neighborhoods.
 
-## Travelling to Lisbon ##
+## Travelling to Lisbon
 
-####When to go####
+### When to go
 Travelling in **January** meant it was low-season in Lisbon, which meant there were few crowds and rarely any lines. This also meant that the many beautiful sights of Lisbon were easily photographed sans-people.
 The weather was mostly bright and sunny, with temperatures around 50-60F.
  <figure class="half">
      <a href="/images/lisbon/thumb_lisbon1.jpg"><img src="/images/lisbon/thumb_lisbon1.jpg"></a>
  </figure>
 
-####How to get there####
+### How to get there
 There are quick and inexpensive flights to Lisbon from Stansted (most of my travel will be from London area airports) served by most budget airlines. The flight itself is around 2.5 hours.
 
-####Where to stay####
+### Where to stay
 There are plenty of affordable and fantastic flats offered on AirBnB. The challenge is finding the right neighborhood to stay in. I stayed in a hostel in Alfama which is on the eastern side of the city.
 The advantage of staying in Alfama is that it seemed particularly less touristy than Baixa (closer to the city "center"). Tram 28 and 12 were a short walk away and allowed quick travel into the Praca Figuera
 and Martin Monez. As the only neighborhood that wasn't destroyed by the earthquake, Alfama's charm also benefits from it's original medieval street layout, look, and feel.
 
-####Public Transportation####
+### Public Transportation
 Lisbon is a walkable city, but in order to see each of the neighborhoods, Lisbon's public transportation is helpful and inexpensive. However, I found it a bit of a nuisance that most maps only printed either the
 Metro **or** Tram lines -- not both. Nonetheless, the tram provided the easiest form of transportation, in particular the historic 28E and 12 trams. Do be mindful of pick-pocketers while enjoying the views from the tram.
 <figure class="half">
      <a href="/images/lisbon/thumb_tram28.jpg"><img src="/images/lisbon/thumb_tram28.jpg"></a>
  </figure>
 
-## Itinerary ##
+## Itinerary
 
-### Day 1: Arrive ###
+### Day 1: Arrive
 
 * Take a morning <a href="http://www.insidelisbon.com/package/best-of-lisbon-walk/">walking tour</a> to get an overview of the city and its neighborhoods.
     <figure class="half">
@@ -73,7 +73,7 @@ Metro **or** Tram lines -- not both. Nonetheless, the tram provided the easiest 
              <a href="/images/lisbon/thumb_fado.jpg"><img src="/images/lisbon/thumb_fado.jpg"></a>
     </figure>
 
-### Day 2: Belem ###
+### Day 2: Belem
 * Take the 15 train to Belem
 * Try traditional *Pasteis* at <a href="http://pasteisdebelem.pt/">Pasteis de Belem</a>
 * Visit the Monastarios de Jeronimos and Tower of Belem. Buy a combined ticket of €18 to save on individual tickets
@@ -91,7 +91,7 @@ Metro **or** Tram lines -- not both. Nonetheless, the tram provided the easiest 
      </figure>
 * Enjoy dinner in the Alfama. There are plenty of options many offering variations of the same thing. Make sure to enjoy some Tinto with dinner.
 
-### Day 3: Sintra ###
+### Day 3: Sintra
 * Take the regional train to Sintra
 * Visit the ruins of the old Moorish castle
  <figure class="half">
@@ -103,7 +103,7 @@ Metro **or** Tram lines -- not both. Nonetheless, the tram provided the easiest 
  </figure>
 * Train back to Lisbon and enjoy dinner in a tapas restaurant in the Alfama district
 
-## Travel Tips! ##
+## Travel Tips! 
 * This applies to any travel where a cellular data connection isn't available: download an offline Google Map of the city. GPS still works and having a live map is incredibly helpful
 * The LisboaCard may be helpful for travellers interested in visiting a lot of museums. Do some research to see which museum's you'd actually like to go to. In my case it was more economical
 to travel using the VivaViagem card with the 24-hour pass on days that I stayed entirely in Lisbon, and the "Zapping" method for single rides.
